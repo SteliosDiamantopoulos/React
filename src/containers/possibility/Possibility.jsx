@@ -10,3 +10,4 @@ const Possibility = () => {
     )
 
 }
+export default Possibility;
